@@ -25,7 +25,7 @@
     - Go to ```./app```
     - Index image using ```python3 index.py --dataset static/images --index index.csv```
     ![img indexing](https://github.com/DaffRazan/ProjectRDM-Indexing/blob/master/pics/image-indexing/indeximg.JPG)
-    - Open file index.csv (image indexed) to see output
+    - Open file index.csv (image indexed) to see the output
     ![Index csv](https://github.com/DaffRazan/ProjectRDM-Indexing/blob/master/pics/image-indexing/output.JPG)
     - Image-Search-Indexing done.
 
