@@ -19,7 +19,7 @@
         - Text-Indexing done.
 
 2. **Image-Search-Indexing**
-    - Place 10 pictures in ```image-indexing/app/static/images``` (you can set any number of pictures, in this example is 10)
+    - Place 10 pictures in ```image-search-engine/app/static/images``` (you can set any number of pictures, in this example is 10)
     - Install python-pip using syntax ```sudo apt install python3-pip```
     - Install pip requirements using syntax ```pip3 install -r requirements.txt```
     - Go to ```./app```
