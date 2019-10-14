@@ -24,9 +24,9 @@
     - Install pip requirements using syntax ```pip3 install -r requirements.txt```
     - Go to ```./app```
     - Index image using ```python3 index.py --dataset static/images --index index.csv```
-    ![img indexing](https://github.com/DaffRazan/ProjectRDM-Indexing/blob/master/pics/image-search-indexing/indeximg.JPG)
+    ![img indexing](https://github.com/DaffRazan/ProjectRDM-Indexing/blob/master/pics/image-indexing/indeximg.JPG)
     - Open file index.csv (image indexed) to see output
-    ![Index csv](https://github.com/DaffRazan/ProjectRDM-Indexing/blob/master/pics/image-search-indexing/output.JPG)
+    ![Index csv](https://github.com/DaffRazan/ProjectRDM-Indexing/blob/master/pics/image-indexing/output.JPG)
     - Image-Search-Indexing done.
 
 ## **Sources:**
