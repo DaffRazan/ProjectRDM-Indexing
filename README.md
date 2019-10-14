@@ -20,6 +20,7 @@
     - Place 10 pictures in ```image-search-engine/app/static/images```
     - Install python-pip using syntax ```sudo apt install python3-pip```
     - Steps to run Image Search Indexing:
+    
            a) Install pip requirements using syntax ```pip3 install -r requirements.txt```
     b) Go to ./app
     c) Index image using ```python3 index.py --dataset static/images --index index.csv```
