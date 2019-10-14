@@ -1,6 +1,6 @@
 # ProjectRDM-Indexing
 
-## Image-Search-Indexing and Text-Indexing
+## Text-Indexing and Image-Search-Indexing
 
 1. **Text-Indexing** Using Swish-e
     - Requirements :
